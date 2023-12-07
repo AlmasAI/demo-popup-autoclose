@@ -1,0 +1,15 @@
+.main{
+    min-height: 100vh;  
+    background-color: blueviolet;
+    width: 100%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button{
+    background-color: white;
+    color: black;
+}
+.button:hover{
+    background-color: blanchedalmond;
+}
